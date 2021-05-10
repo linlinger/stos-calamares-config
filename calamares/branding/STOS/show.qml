@@ -51,7 +51,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Welcome to SpanningTree Linux, an Arch based Linux<br/>")
+                text: qsTr("<b>欢迎使用SpanningTree Linux！<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -78,7 +78,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>SpanningTree Linux is 100% compatible with Arch Linux<br/>")
+                text: qsTr("<b>用户反馈及建议请发送邮件至service@stp.net.cn<br/>")
                 
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
@@ -106,7 +106,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Feedback and suggestions are welcomed<br/>")
+                text: qsTr("<b>Spanningtree Linux欢迎用户的反馈<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter
@@ -133,7 +133,7 @@ Presentation
                 anchors.horizontalCenterOffset: 0
                 font.pixelSize: parent.width *.020
                 color: 'white'
-                text: qsTr("<b>Thank you for trying SpanningTree Linux<br/>")
+                text: qsTr("<b>感谢您使用SpanningTree Linux！<br/>")
                 wrapMode: Text.WordWrap
                 width: parent.width / 1.4
                 horizontalAlignment: Text.AlignHCenter

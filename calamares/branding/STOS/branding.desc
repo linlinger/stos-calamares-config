@@ -122,18 +122,18 @@ navigation: widget
 # are set to "true" (they can also be overridden).
 strings:
     #productName:         "@{NAME}"
-    productName:         STOS
+    productName:         Spanningtree Linux
     shortProductName:    STOS
-    version:             2021.4 Xfce  
-    shortVersion:        2021.4 Xfce
+    version:             2021 Xfce  
+    shortVersion:        2021 Xfce
     versionedName:       Spanningtree Linux Alpha
     shortVersionedName:  STOS Linux Alpha
     bootloaderEntryName: STOS Xfce
-    productUrl:          http://cdesk-linux.github.io/
-    supportUrl:          http://cdesk-linux.github.io/support
-    knownIssuesUrl:      http://cdesk-linux.github.io/feedback
-    releaseNotesUrl:     http://cdesk-linux.github.io/releases
-    donateUrl:           http://cdesk-linux.github.io/donations
+    productUrl:          http://stp.net.cn
+    supportUrl:          hhttp://stp.net.cn
+    knownIssuesUrl:      http://stp.net.cn
+    releaseNotesUrl:     http://stp.net.cn
+    donateUrl:           http://stp.net.cn
 
 # These images are loaded from the branding module directory.
 #
